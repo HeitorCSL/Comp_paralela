@@ -1,6 +1,6 @@
 >>> Como compilar o programa
 
-    recomendo a instalação da IDE Visual Studio Code
+    Recomendo a instalação da IDE Visual Studio Code
 
 >>> Como executar o programa
 
