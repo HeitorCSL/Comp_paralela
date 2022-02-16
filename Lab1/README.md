@@ -1,8 +1,8 @@
->>> Como compilar o programa na plataforma disponibilizada;
+>>> Como compilar o programa na plataforma disponibilizada
 
     Recomendo a instalação da IDE Visual Studio Code
 
->>> Como executar o programa;
+>>> Como executar o programa
 
     Abra o arquivo no Visual Studio Code. Para executar use o comando CTRL + ALT + N
     
