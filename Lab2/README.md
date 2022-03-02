@@ -1,7 +1,7 @@
 >>> Como compilar o programa na plataforma disponibilizada
 
     Recomendo a instalação da IDE Visual Studio Code.
-    Caso contrário, Acesse a pasta Comp_paralela/lab1b.
+    Caso contrário, Acesse a pasta Comp_paralela/lab2.
     Para compilar o programa, utilize o gcc. 
 
         $ gcc lab2.c -o lab2
